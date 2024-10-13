@@ -1,4 +1,4 @@
-# AI Wallt-Sit Gym Coach
+# AI Wall-Sit Gym Coach
 
 This repository contains a computer vision model that can categorize Wall-Sit excersize into Correct and Incorrect. The model achieves high accuracy.
 
